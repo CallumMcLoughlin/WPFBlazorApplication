@@ -1,0 +1,11 @@
+﻿.idea/
+.vs/
+
+BlazorTest/bin/
+BlazorTest/obj/
+
+WPFTest/bin/
+WPFTest/obj/
+
+LibraryTest/bin/
+LibraryTest/obj/
